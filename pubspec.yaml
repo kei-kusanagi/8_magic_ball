@@ -21,6 +21,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  flutter_animate: ^3.0.0
 
 
 flutter:
